@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20976f9d15eadd08fbb6760a0e1f5b6f",
+    "revision": "f36ee4930c5b62bd76badeba0c4ef209",
     "url": "/fluxushome-shop/index.html"
   },
   {
-    "revision": "67cda5e8113b379df352",
-    "url": "/fluxushome-shop/static/css/main.82907292.chunk.css"
+    "revision": "214401cce04fe2dd44b0",
+    "url": "/fluxushome-shop/static/css/main.2a711dbe.chunk.css"
   },
   {
     "revision": "f758695b89821c78e68c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67cda5e8113b379df352",
+    "revision": "214401cce04fe2dd44b0",
     "url": "/fluxushome-shop/static/js/main.95a83490.chunk.js"
   },
   {

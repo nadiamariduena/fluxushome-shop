@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fluxushome-shop/static/css/main.82907292.chunk.css",
+    "main.css": "/fluxushome-shop/static/css/main.2a711dbe.chunk.css",
     "main.js": "/fluxushome-shop/static/js/main.95a83490.chunk.js",
     "main.js.map": "/fluxushome-shop/static/js/main.95a83490.chunk.js.map",
     "runtime-main.js": "/fluxushome-shop/static/js/runtime-main.31ce968b.js",
@@ -8,16 +8,16 @@
     "static/js/2.fd7efde8.chunk.js": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js",
     "static/js/2.fd7efde8.chunk.js.map": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.map",
     "index.html": "/fluxushome-shop/index.html",
-    "precache-manifest.dc20c6ac7a359d7ff4fc57b0db1381ba.js": "/fluxushome-shop/precache-manifest.dc20c6ac7a359d7ff4fc57b0db1381ba.js",
+    "precache-manifest.4319eefcc89d18a20a0348a78d6f2fbc.js": "/fluxushome-shop/precache-manifest.4319eefcc89d18a20a0348a78d6f2fbc.js",
     "service-worker.js": "/fluxushome-shop/service-worker.js",
-    "static/css/main.82907292.chunk.css.map": "/fluxushome-shop/static/css/main.82907292.chunk.css.map",
+    "static/css/main.2a711dbe.chunk.css.map": "/fluxushome-shop/static/css/main.2a711dbe.chunk.css.map",
     "static/js/2.fd7efde8.chunk.js.LICENSE.txt": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/fluxushome-shop/static/media/yellownosestudio.ccec7228.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.31ce968b.js",
     "static/js/2.fd7efde8.chunk.js",
-    "static/css/main.82907292.chunk.css",
+    "static/css/main.2a711dbe.chunk.css",
     "static/js/main.95a83490.chunk.js"
   ]
 }
