@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<p style="width: 80%; text-align:center; color:red;">This project marked the end of the REACT courses in DCI school, few weeks after that i felt curious about integrating firebase to the original project.</p>
+<p>This project marked the end of the REACT courses in DCI school, few weeks after that i felt curious about integrating firebase to the original project.</p>
 
 <br>
 <br>
