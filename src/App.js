@@ -5,7 +5,8 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 // { BrowserRouter as Router, Switch, Route }
 
 //
-import Data from "./data.json";
+// import Data from "./data.json";
+import Data from "./dataProductInfo.json";
 import MenuTwo from "./components/MenuTwo";
 import Home from "./components/Home";
 import Product from "./components/Product";
