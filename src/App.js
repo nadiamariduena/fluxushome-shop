@@ -27,7 +27,8 @@ class App extends Component {
              - PUBLIC_URL will grab the root URL from that server, and 
 
           */}
-          <Route path={process.env.PUBLIC_URL + "/"} exact component={Home} />
+          {/* <Route path={process.env.PUBLIC_URL + "/"} exact component={Home} /> */}
+          <Route path="/" exact component={Home} />
           {/* -------------- */}
 
           <Route path="/cart" exact component={Cart} />
