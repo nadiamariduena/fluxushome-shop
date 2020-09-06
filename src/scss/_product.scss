@@ -62,19 +62,20 @@
 
       letter-spacing: 1px;
     }
-    button {
-      z-index: 4;
-      background-color: transparent;
+    .btn-banner-product {
+      color: #000;
       border: 1px solid rgba(14, 14, 14, 0.8);
       padding: 12px 23px;
       margin: 0 150px 0 35px;
-      color: #000;
+      background-color: transparent;
       transition: 0.3s ease-in-out;
+      font-family: "Poppins-light";
+      font-size: 0.9em;
+
       &:hover {
         background-color: #000;
-        border: 0px solid #000;
+        border: 1px solid #000;
         color: #fff;
-        padding: 12px 23px;
       }
     }
   }

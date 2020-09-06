@@ -51,3 +51,15 @@ const Soon = () => {
 };
 
 export default Soon;
+
+/*
+
+
+Customer care
+Our dedicated team is always happy to help you with any questions. Just fill in the form via the link below and we will get back to you as soon as possible!
+
+Contact us here
+
+
+
+*/

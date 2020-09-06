@@ -31,7 +31,6 @@ class App extends Component {
           {/* <Route path={process.env.PUBLIC_URL + "/"} exact component={Home} /> */}
           <Route path="/" exact component={Home} />
           {/* -------------- */}
-
           <Route path="/cart" exact component={Cart} />
           <Route
             path="/product/:id"
@@ -39,16 +38,20 @@ class App extends Component {
               <ProductInfo data={Data} id={match.params.id} />
             )}
           />
-
           <Route
             path="/product"
             exact
             component={() => <Product data={Data} />}
           />
+          <Route path="/soon" exact component={Soon} />} />
           <Route
             path={() => "/main" || "/admin" || "/any-other-word"}
-            component={Soon}
+            component={Home}
           />
+          {/* <Route
+            path={() => "/main" || "/admin" || "/any-other-word"}
+            component={Soon}
+          /> */}
           {/* 
            <Route path="/*" component={Soon} />
           */}

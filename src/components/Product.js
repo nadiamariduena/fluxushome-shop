@@ -2,6 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Product = (props) => {
+  //
+  //
+  //
+  //
   const items = props.data.map((item) => {
     const { id, productName, delivery, url, price, tags } = item;
 
@@ -45,7 +49,12 @@ const Product = (props) => {
               and get helpful tips and style advice to transform your space.
               Come on in.
             </p>
-            <button>More Details</button>
+
+            <Link className="btn-banner-product" to="/soon">
+              More Details
+            </Link>
+
+            {/* ---------- */}
           </div>
         </div>
         <h1>AW/20 </h1>
