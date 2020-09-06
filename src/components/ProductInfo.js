@@ -2,6 +2,8 @@ import React from "react";
 // import Data from "../dataProductInfo.json";
 
 const ProductInfo = (props) => {
+  //
+  //
   console.log(props);
   const selectedItem = props.data.filter((item) => item.id == props.id);
   const moreInfo = selectedItem.map((item) => {
@@ -46,6 +48,7 @@ but as you see inside the ProductInfo.js , you can add whatever you want here:
     } = item;
     //
     //
+
     //
     return (
       <div key={id} className="box-quote">
@@ -78,13 +81,19 @@ but as you see inside the ProductInfo.js , you can add whatever you want here:
       <div className="product-info">{moreInfo}</div>
 
       <div className="footer-product-info">
-        <p> &#169; 2020</p>
-
-        <div className="insta">
-          <div className="dot"></div>
-          <p>facebook</p>
-        </div>
-        <ol>
+        {/* ---- */}
+        <ol className="foot1">
+          <ul>
+            <li>&#169; 2020</li>
+          </ul>
+          <ul>
+            <li className="dot">
+              <span>facebook</span>
+            </li>
+          </ul>
+        </ol>
+        {/* ---- */}
+        <ol className="foot2">
           <ul>
             <li>ONLINE CATALOGUE 2019</li>
             <li>TERMS &amp; CONDITIONS </li>

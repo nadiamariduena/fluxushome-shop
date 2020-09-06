@@ -39,6 +39,7 @@ class App extends Component {
               <ProductInfo data={Data} id={match.params.id} />
             )}
           />
+
           <Route
             path="/product"
             exact

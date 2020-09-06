@@ -63,6 +63,13 @@ p {
       .img-box {
         width: 60%;
         border-radius: 60% 30% / 50% 50%;
+        &::after {
+          width: 100%;
+          height: 100%;
+          background-color: seagreen;
+          top: 0;
+          left: 0;
+        }
 
         img {
           width: 100%;
@@ -134,44 +141,69 @@ p {
   width: 100%;
   height: 20%;
   margin: 150px 0 100px 0;
-  background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   flex-direction: row;
-
-  p {
-    font-size: 20px;
-    color: rgba(14, 14, 14, 0.8);
-    font-family: "Arimo";
-    font-size: 0.9em;
-  }
-
-  .insta {
+  //
+  .foot1 {
     display: flex;
-
-    .dot {
-      margin: 0 10px 0 0;
-      width: 15px;
-      height: 15px;
-      background-color: rgba(14, 14, 14, 0.8);
-      border-radius: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+    ul {
+      li {
+        text-transform: lowercase;
+        font-size: 1em;
+        color: rgb(10, 10, 10);
+        font-family: "Arimo";
+      }
     }
 
-    p {
-      font-size: 20px;
-      color: rgba(14, 14, 14, 0.8);
-      display: inline-block;
-      font-family: "Arimo";
-      font-size: 0.9em;
+    //
+
+    .dot {
+      width: 15px;
+      height: 15px;
+      background-color: rgb(14, 14, 14);
+      border-radius: 100%;
+
+      span {
+        margin: 0 25px 0 25px;
+        text-transform: lowercase;
+        font-size: 1em;
+        color: rgb(14, 14, 14);
+        font-family: "Arimo";
+      }
     }
   }
 
   //
-  li {
-    text-transform: lowercase;
-    font-size: 0.9em;
-    color: rgba(14, 14, 14, 0.8);
-    font-family: "Arimo";
+  .foot2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+
+    ul {
+      li {
+        text-transform: lowercase;
+        font-size: 0.9em;
+        color: rgb(14, 14, 14);
+        font-family: "Arimo";
+
+        .dot {
+          margin: 0 10px 0 0;
+          width: 15px;
+          height: 15px;
+          background-color: rgba(14, 14, 14, 0.8);
+          border-radius: 100%;
+        }
+      }
+
+      //
+    }
   }
 }
