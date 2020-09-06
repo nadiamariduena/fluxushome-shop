@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fluxushome-shop/static/css/main.23535e9b.chunk.css",
-    "main.js": "/fluxushome-shop/static/js/main.849547d8.chunk.js",
-    "main.js.map": "/fluxushome-shop/static/js/main.849547d8.chunk.js.map",
+    "main.js": "/fluxushome-shop/static/js/main.3fbab6d7.chunk.js",
+    "main.js.map": "/fluxushome-shop/static/js/main.3fbab6d7.chunk.js.map",
     "runtime-main.js": "/fluxushome-shop/static/js/runtime-main.31ce968b.js",
     "runtime-main.js.map": "/fluxushome-shop/static/js/runtime-main.31ce968b.js.map",
     "static/js/2.fd7efde8.chunk.js": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js",
     "static/js/2.fd7efde8.chunk.js.map": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.map",
     "index.html": "/fluxushome-shop/index.html",
-    "precache-manifest.ed573d8da6c7bc2f5de3f1026914bc27.js": "/fluxushome-shop/precache-manifest.ed573d8da6c7bc2f5de3f1026914bc27.js",
+    "precache-manifest.32cd31dc1973811fe1b688e083b98d2b.js": "/fluxushome-shop/precache-manifest.32cd31dc1973811fe1b688e083b98d2b.js",
     "service-worker.js": "/fluxushome-shop/service-worker.js",
     "static/css/main.23535e9b.chunk.css.map": "/fluxushome-shop/static/css/main.23535e9b.chunk.css.map",
     "static/js/2.fd7efde8.chunk.js.LICENSE.txt": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.31ce968b.js",
     "static/js/2.fd7efde8.chunk.js",
     "static/css/main.23535e9b.chunk.css",
-    "static/js/main.849547d8.chunk.js"
+    "static/js/main.3fbab6d7.chunk.js"
   ]
 }
