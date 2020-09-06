@@ -50,8 +50,8 @@ const Product = (props) => {
               Come on in.
             </p>
 
-            <Link className="btn-banner-product" to="/soon">
-              More Details
+            <Link to="/soon">
+              <button className="btn-banner-product">More Details</button>
             </Link>
 
             {/* ---------- */}
