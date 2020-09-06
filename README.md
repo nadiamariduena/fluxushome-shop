@@ -2,18 +2,15 @@
 
 ~~No copyright infringement intended, All pictures used in this exercise are **_only_** for educational purposes.~~
 
+<p style="width: 80%; text-align:center; ">This project marked the end of the REACT courses in DCI school, few weeks after that i felt curious about integrating firebase to the original project.</p>
 
-<p>This project marked the end of the REACT courses in DCI school, few weeks after that i felt curious about integrating firebase to the original project.</p>
+<br>
+<br>
 
 ![preview](./src/img-decor/previewshop.gif)
 
 <br>
 <br>
-
-
-
-
-
 
 <h2>First Step</h2>
 
