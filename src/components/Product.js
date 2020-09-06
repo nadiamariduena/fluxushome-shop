@@ -54,6 +54,23 @@ const Product = (props) => {
               <button className="btn-banner-product">More Details</button>
             </Link>
 
+            {/* 
+            
+            WHEN YOU TRY to ADD btn Links in such way it wont work:
+            
+            <Link className="btn-banner-product" to="/soon">
+              Product
+            </Link> 
+            
+            But like this it does:
+
+                 <Link to="/soon">
+              <button className="btn-banner-product">More Details</button>
+            </Link>
+            
+            
+            */}
+
             {/* ---------- */}
           </div>
         </div>
