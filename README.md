@@ -24,22 +24,14 @@
 
 <br>
 <br>
-
 <hr>
-
-<br>
-<br>
-
-<h2>Second Step (in progress)</h2>
-
-<p>Adding the BACKEND part (react + firebase) login system  </p>
-
-<br>
-<br>
 <br>
 <br>
 
 ### AFTER FEW MONTHS OF TAKING CARE OF OTHER PROJECTS , I DECIDED TO UPDATE THE FLUXUS SHOP.
+
+<p>REPLACING the images and the animation </p>
+<p>DEC 08/2020 </p>
 
 <br>
 
@@ -132,3 +124,13 @@
   }
 
 ```
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+## Second Step (in progress) 🍰
+
+<p>Adding the BACKEND part (react + firebase or MONGO) login system  </p>
