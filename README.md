@@ -72,4 +72,63 @@
 
 ##### PREVIEW OF THE SHOP
 
-[<img src="./src/images/preview-newimages-december.gif">](https://github.com/nadiamariduena/react-router-intro-dci)
+[<img src="./src/images/preview-newimages-december.gif">](https://nadiamariduena.github.io/fluxushome-shop/)
+
+<br>
+<br>
+
+### ANIMATION 🏃
+
+##### I REPLACED THE ANIMATION
+
+- I am still not glad with it but i think i am going to leave like so for this project, as i will be focused more in the backend.
+
+```css
+/************* BEFORE **************/
+  background-image: url(../img-decor/ignant-design-ligne-roset-daybed-001--720x325.jpg);
+  background-position: center right;
+  background-size: 150%;
+  transition: 6s ease;
+ &:hover {
+    background-position: left bottom;
+    background-size: 110%;
+    background-image: url(../img-decor/OS---OOS_private-residence-3.jpg);
+
+
+/************* AFTER **************/
+.home-banner {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  background-image: url(../img-shop/frontshop5_by_Trình-Minh-Thư.jpg);
+  background-position: right bottom 14%;
+  background-size: cover;
+  animation-delay: -2s;
+  animation: mymove 9s infinite alternate-reverse ease-in-out;
+  background-repeat: no-repeat;
+  position: relative;
+
+  // &:hover {
+  //   background-position: right bottom 14%;
+  //   background-size: cover;
+  //   background-image: url(../img-shop/frontshop3_by_Trình-Minh-Thư.jpg);
+  // }
+
+  @keyframes mymove {
+    0% {
+      background-image: url(../img-shop/frontshop5_by_Trình-Minh-Thư.jpg);
+    }
+    25% {
+      background-image: url(../img-shop/frontshop4_by_Trình-Minh-Thư.jpg);
+    }
+    50% {
+      background-image: url(../img-shop/frontshop10_by_Trình-Minh-Thư.jpg);
+    }
+    100% {
+      background-image: url(../img-shop/frontshop11_by_Trình-Minh-Thư.jpg);
+    }
+  }
+
+```
