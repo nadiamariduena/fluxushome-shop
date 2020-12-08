@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fluxushome-shop/precache-manifest.32cd31dc1973811fe1b688e083b98d2b.js"
+  "/fluxushome-shop/precache-manifest.13dbc4e909774a60c53f2f3236eca5cd.js"
 );
 
 self.addEventListener('message', (event) => {

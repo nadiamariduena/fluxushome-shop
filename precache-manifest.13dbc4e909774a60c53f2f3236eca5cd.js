@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "962102a249653a2e6a128c54f59be6df",
+    "revision": "28093c8e38ec7809f895701057f09e78",
     "url": "/fluxushome-shop/index.html"
   },
   {
-    "revision": "81cbf23c2fe86852093e",
-    "url": "/fluxushome-shop/static/css/main.23535e9b.chunk.css"
+    "revision": "2c913a406c025d99b8eb",
+    "url": "/fluxushome-shop/static/css/main.f8ed4f32.chunk.css"
   },
   {
-    "revision": "f758695b89821c78e68c",
-    "url": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js"
+    "revision": "afaa512c6be6bb24f849",
+    "url": "/fluxushome-shop/static/js/2.925bd88e.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/fluxushome-shop/static/js/2.925bd88e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81cbf23c2fe86852093e",
-    "url": "/fluxushome-shop/static/js/main.3fbab6d7.chunk.js"
+    "revision": "2c913a406c025d99b8eb",
+    "url": "/fluxushome-shop/static/js/main.5b413426.chunk.js"
   },
   {
     "revision": "dd44d3838ff21fc24862",
@@ -80,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fluxushome-shop/static/media/Muli-SemiBoldItalic.17c1038f.ttf"
   },
   {
-    "revision": "60b28db86f60270ff7aba26f72bc7d42",
-    "url": "/fluxushome-shop/static/media/OS---OOS_private-residence-3.60b28db8.jpg"
-  },
-  {
     "revision": "2a47a29ceb33c966c8d79f8d5a5ea448",
     "url": "/fluxushome-shop/static/media/Poppins-Light.2a47a29c.ttf"
   },
@@ -116,15 +112,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fluxushome-shop/static/media/Roboto-Black.3234b3e8.ttf"
   },
   {
-    "revision": "49ef2a9dacba747c93c7356d49e0f7dd",
-    "url": "/fluxushome-shop/static/media/ignant-design-ligne-roset-daybed-001--720x325.49ef2a9d.jpg"
+    "revision": "a0d7f5660e9a7d55125815f20fb535df",
+    "url": "/fluxushome-shop/static/media/frontshop10_by_Trình-Minh-Thư.a0d7f566.jpg"
   },
   {
-    "revision": "06d39f820556f7705f03e7df59fc2464",
-    "url": "/fluxushome-shop/static/media/plantscape_design-00-720x480.06d39f82.jpg"
+    "revision": "d8d936b2b5e49cfe832052aaa9c87cd6",
+    "url": "/fluxushome-shop/static/media/frontshop11_by_Trình-Minh-Thư.d8d936b2.jpg"
   },
   {
-    "revision": "ccec7228e50154721afb6ee0062e09e5",
-    "url": "/fluxushome-shop/static/media/yellownosestudio.ccec7228.jpg"
+    "revision": "0a282da2b400a2e3f2054b1946b5d3a3",
+    "url": "/fluxushome-shop/static/media/frontshop4_by_Trình-Minh-Thư.0a282da2.jpg"
+  },
+  {
+    "revision": "6cef25651126150d6501ae9e4024c8c8",
+    "url": "/fluxushome-shop/static/media/frontshop5_by_Trình-Minh-Thư.6cef2565.jpg"
+  },
+  {
+    "revision": "46fa7363107524a5c0a7b854c13db77d",
+    "url": "/fluxushome-shop/static/media/frontshop6_by_Trình-Minh-Thư.46fa7363.jpg"
   }
 ]);
