@@ -39,22 +39,24 @@
 <br>
 <br>
 
-# AFTER FEW MONTHS OF TAKING CARE OF OTHER PROJECTS , I DECIDED TO UPDATE THE FLUXUS SHOP.
+### AFTER FEW MONTHS OF TAKING CARE OF OTHER PROJECTS , I DECIDED TO UPDATE THE FLUXUS SHOP.
 
 <br>
 
-#### IF YOU HAVE A PROBLEM WHEN TRYING TO VISUALIZE THE PROJECT with NPM START
+##### IF YOU HAVE A PROBLEM WHEN TRYING TO VISUALIZE THE PROJECT with NPM START
 
 - IF the error is related to the binding
 
-- DELETE DE node modules and the package lock json and proceed to type npm install again, so to install all the dependencies and get a new node modules
+- DELETE the node modules and the package lock json and proceed to type npm install again, so to install all the dependencies and get a new node modules
 
 <br>
 <br>
 
-###  🌻 🌻 🌻  NEW IMAGES 📷 🌻 🌻 🌻
+### 🌻 🌻 🌻 NEW IMAGES 📷 🌻 🌻 🌻
 
-#### I DECIDED TO CHANGE ALL THE IMAGES I DIDN'T HAVE THE RIGHT TO USE, for incredible free images from also talented photographers
+<br>
+
+##### I DECIDED TO CHANGE ALL THE IMAGES I DIDN'T HAVE THE RIGHT TO USE, for incredible free images from also talented photographers
 
 <br>
 
@@ -65,3 +67,9 @@
 [Trình Minh Thư on unsplash](https://unsplash.com/@imdauphong)
 
 [Trình Minh Thư on behance](https://www.behance.net/imdauphong)
+
+<br>
+
+##### PREVIEW OF THE SHOP
+
+[<img src="./src/images/preview-newimages-december.gif">](https://github.com/nadiamariduena/react-router-intro-dci)
