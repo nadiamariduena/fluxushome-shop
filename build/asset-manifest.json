@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/fluxushome-shop/static/css/main.23535e9b.chunk.css",
-    "main.js": "/fluxushome-shop/static/js/main.3fbab6d7.chunk.js",
-    "main.js.map": "/fluxushome-shop/static/js/main.3fbab6d7.chunk.js.map",
+    "main.css": "/fluxushome-shop/static/css/main.f8ed4f32.chunk.css",
+    "main.js": "/fluxushome-shop/static/js/main.5b413426.chunk.js",
+    "main.js.map": "/fluxushome-shop/static/js/main.5b413426.chunk.js.map",
     "runtime-main.js": "/fluxushome-shop/static/js/runtime-main.31ce968b.js",
     "runtime-main.js.map": "/fluxushome-shop/static/js/runtime-main.31ce968b.js.map",
-    "static/js/2.fd7efde8.chunk.js": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js",
-    "static/js/2.fd7efde8.chunk.js.map": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.map",
+    "static/js/2.925bd88e.chunk.js": "/fluxushome-shop/static/js/2.925bd88e.chunk.js",
+    "static/js/2.925bd88e.chunk.js.map": "/fluxushome-shop/static/js/2.925bd88e.chunk.js.map",
     "index.html": "/fluxushome-shop/index.html",
-    "precache-manifest.32cd31dc1973811fe1b688e083b98d2b.js": "/fluxushome-shop/precache-manifest.32cd31dc1973811fe1b688e083b98d2b.js",
+    "precache-manifest.13dbc4e909774a60c53f2f3236eca5cd.js": "/fluxushome-shop/precache-manifest.13dbc4e909774a60c53f2f3236eca5cd.js",
     "service-worker.js": "/fluxushome-shop/service-worker.js",
-    "static/css/main.23535e9b.chunk.css.map": "/fluxushome-shop/static/css/main.23535e9b.chunk.css.map",
-    "static/js/2.fd7efde8.chunk.js.LICENSE.txt": "/fluxushome-shop/static/js/2.fd7efde8.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/fluxushome-shop/static/media/yellownosestudio.ccec7228.jpg"
+    "static/css/main.f8ed4f32.chunk.css.map": "/fluxushome-shop/static/css/main.f8ed4f32.chunk.css.map",
+    "static/js/2.925bd88e.chunk.js.LICENSE.txt": "/fluxushome-shop/static/js/2.925bd88e.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/fluxushome-shop/static/media/frontshop6_by_Trình-Minh-Thư.46fa7363.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.31ce968b.js",
-    "static/js/2.fd7efde8.chunk.js",
-    "static/css/main.23535e9b.chunk.css",
-    "static/js/main.3fbab6d7.chunk.js"
+    "static/js/2.925bd88e.chunk.js",
+    "static/css/main.f8ed4f32.chunk.css",
+    "static/js/main.5b413426.chunk.js"
   ]
 }
