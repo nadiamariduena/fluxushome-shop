@@ -33,3 +33,12 @@
 <h2>Second Step (in progress)</h2>
 
 <p>Adding the BACKEND part (react + firebase) login system  </p>
+
+<br>
+<br>
+
+#### IF YOU HAVE A PROBLEM WHEN TRYING TO VISUALIZE THE PROJECT with NPM START
+
+- IF the error is related to the binding
+
+- DELETE DE node modules and the package lock json and procede to type npm install again, so to install all the dependencies and get a new node modules

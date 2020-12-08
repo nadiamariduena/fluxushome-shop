@@ -1,15 +1,15 @@
 .product-info-banner {
   width: 100vw;
-  height: 90vh;
+  height: 75vh;
   background-color: rgba(224, 175, 129, 0.5);
 
   display: flex;
+
+  background-image: url(../img-shop/frontshop6_by_Trình-Minh-Thư.jpg);
   background-attachment: fixed;
-  flex-direction: column;
-  background-position: bottom;
+  background-position: center bottom 0%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(../img-decor/yellownosestudio.jpg);
 }
 
 //

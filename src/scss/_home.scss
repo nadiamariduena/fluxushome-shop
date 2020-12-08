@@ -4,18 +4,36 @@
 
   display: flex;
   flex-direction: column;
-  background-image: url(../img-decor/ignant-design-ligne-roset-daybed-001--720x325.jpg);
-  background-position: center right;
-  background-size: 150%;
-  transition: 6s ease;
+  background-image: url(../img-shop/frontshop5_by_Trình-Minh-Thư.jpg);
+  background-position: right bottom 14%;
+  background-size: cover;
+  animation-delay: -2s;
+  animation: mymove 9s infinite alternate-reverse ease-in-out;
   background-repeat: no-repeat;
   position: relative;
 
-  &:hover {
-    background-position: left bottom;
-    background-size: 110%;
-    background-image: url(../img-decor/OS---OOS_private-residence-3.jpg);
+  // &:hover {
+  //   background-position: right bottom 14%;
+  //   background-size: cover;
+  //   background-image: url(../img-shop/frontshop3_by_Trình-Minh-Thư.jpg);
+  // }
+
+  @keyframes mymove {
+    0% {
+      background-image: url(../img-shop/frontshop5_by_Trình-Minh-Thư.jpg);
+    }
+    25% {
+      background-image: url(../img-shop/frontshop4_by_Trình-Minh-Thư.jpg);
+    }
+    50% {
+      background-image: url(../img-shop/frontshop10_by_Trình-Minh-Thư.jpg);
+    }
+    100% {
+      background-image: url(../img-shop/frontshop11_by_Trình-Minh-Thư.jpg);
+    }
   }
+
+  // ---------
 
   &::after {
     content: "";

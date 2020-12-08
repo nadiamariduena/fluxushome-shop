@@ -7,6 +7,7 @@ const Product = (props) => {
   //
   //
   const items = props.data.map((item) => {
+    
     const { id, productName, delivery, url, price, tags } = item;
 
     return (
